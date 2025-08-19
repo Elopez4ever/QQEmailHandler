@@ -1,0 +1,12 @@
+mail:
+  host: imap.qq.com
+  port: 993
+  username: example@qq.com
+  password: example_password # 不是 QQ 密码
+  download:
+    directory: downloads
+
+app:
+  name: EmailHandler
+  version: 1.0
+  debug: false
